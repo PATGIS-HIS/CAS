@@ -1,4 +1,4 @@
-package com.PATGISHIS.app;
+package com.PATGISHIS.app.Lexer;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.PATGISHIS.app;
+package com.PATGISHIS.app.Lexer;
 
 public class Token {
     private final TokenType type;
